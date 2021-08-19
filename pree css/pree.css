@@ -13,7 +13,7 @@ header {
     margin-bottom: 10px;
 }
 
-header h1 {
+header h1,p {
     text-align: center;
     color: #000;
 }
@@ -62,7 +62,7 @@ ul li {
 
 .error {
     width: 100%;
-    background: orangered;
+    background: red ;
     padding: 5px;
     margin: 5px;
     color: #ffff;
